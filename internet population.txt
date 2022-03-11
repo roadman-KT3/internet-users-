@@ -1,0 +1,11 @@
+internet population analysis
+Q1. Total populationin the year 2020
+q2. how much population has grown over 5 years preceding year 2020(2016-2020)
+Q3. Ghana and Nigeria population difference
+Q4. identifying a growing population 
+graphs
+1. line chart between Ghana and Nigeria from 2000-2020
+2. heatmap of the countries 
+3. pie chart to show number of users on ghana for the past five years 
+4. bar chart between Ghana and neighbouring countries
+ 
